@@ -89,7 +89,7 @@ This project will involve building a dynamic, decision-tree-based workflow tool 
 
 Here’s a small React component with conditional branching and media upload input:
 
-## [Code Exapmle](./SupportForm.js)
+## [Code Example](./SupportForm.js)
 
 ## Secure Upload Strategy
 - Client-side file type and size checks (before submission)
